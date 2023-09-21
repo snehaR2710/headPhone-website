@@ -282,7 +282,6 @@ main{
 
 /****** styling product section which displayed ******/
 .products{
-    border: 2px solid red;
     display: flex;
     flex-direction: column;
     margin: 0 300px;
@@ -292,7 +291,6 @@ main{
     scale: 0.2;
 }
 .product-items {
-    border: 2px solid red;
     width: 40%;
     display: flex;
     flex-wrap: wrap;
