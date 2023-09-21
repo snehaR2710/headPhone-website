@@ -291,6 +291,7 @@ main{
     scale: 0.2;
 }
 .product-items {
+    margin: auto;
     width: 40%;
     display: flex;
     flex-wrap: wrap;
